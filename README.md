@@ -24,7 +24,11 @@ of the `doMerge()` method according to the ID of your template Doc, and save it.
 
 * A new merged file will be created for you.
 
+---
 
+# Resources
+
+(https://developers.google.com/apps-script/guides/docs#the_basics)
 
 
 
